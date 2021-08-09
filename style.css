@@ -1,0 +1,6 @@
+.history-scrollable {
+  position: relative;
+  max-height: calc(100vh - 142px); /* 142px is height of header + search form */
+  overflow-x: hidden;
+  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+}
