@@ -1,7 +1,7 @@
 const HISTORY_KEY = "weatherCitySearchHistory";
 const HISTORY_BTN_BS_CLASSES = "btn btn-light border text-left px-3 py-2";
 const HISTORY_DATA_CITY_ATTR = "data-city";
-const API_KEY = "d77358b957f48bb5e0d0bc47f76aad4e";
+const API_KEY = "e15c8d0acf2de5d81185209b0b72ca93";
 
 let history = JSON.parse(localStorage.getItem(HISTORY_KEY));
 if (!history) {
