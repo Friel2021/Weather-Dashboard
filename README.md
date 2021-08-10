@@ -30,4 +30,3 @@ THEN I am again presented with current and future conditions for that city
 
 https://friel2021.github.io/Weather-Dashboard/
 
-
