@@ -1,3 +1,5 @@
+![FireShot Capture 011 - Current and future forecasts! - friel2021 github io](https://user-images.githubusercontent.com/87154134/128941047-d0421165-e1d0-4546-b71f-81acecf03bd6.png)
+
 # Weather-Dashboard
 
 ## User Story
