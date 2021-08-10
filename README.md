@@ -27,4 +27,6 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
-```
+
+![FireShot Capture 011 - Current and future forecasts! - friel2021 github io](https://user-images.githubusercontent.com/87154134/128940419-f73180cc-0091-4207-8e4d-65aedb3b9703.png)
+
