@@ -28,5 +28,6 @@ WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
 
-![FireShot Capture 011 - Current and future forecasts! - friel2021 github io](https://user-images.githubusercontent.com/87154134/128940419-f73180cc-0091-4207-8e4d-65aedb3b9703.png)
+![FireShot Capture 011 - Current and future forecasts! - friel2021 github io](https://user-images.githubusercontent.com/87154134/128940470-df75a2fa-f27f-4f26-a0e1-61fb17e2a57a.png)
+
 
