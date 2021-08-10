@@ -9,9 +9,6 @@ AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
-
-## Acceptance Criteria
-
 ```
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
@@ -30,4 +27,4 @@ WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
 
-https://friel2021.github.io/Weather-Dashboard/
+Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
